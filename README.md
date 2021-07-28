@@ -1,6 +1,6 @@
 # companion_app
 
-A new Flutter project.
+This a companion App for Doubt Fire Lms .
 
 ## Getting Started
 
